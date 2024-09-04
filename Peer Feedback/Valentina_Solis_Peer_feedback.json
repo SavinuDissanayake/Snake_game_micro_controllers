@@ -1,0 +1,37 @@
+{
+  "group": [
+    {
+      "name": "Valentina Solis",
+      "sfu_email": "vsa30",
+      "contribution": {
+        "score": 20,
+        "comment": "I put as much effort and time as I could for this project. I consider that I helped with everything a bit, software and hardware for our game project as stated when diving tasks."
+      }
+    },
+    {
+      "name": "Yashdeep Singh",
+      "sfu_email": "ysa208",
+      "contribution": {
+        "score": 20,
+        "comment": "Communication was great. He helped a lot with all the project implementation (software and hardware). He is an excellent member for a group with leadership and great quality of work. Went above expectations."
+      }
+    },
+    {
+      "name": "Khai Duy Nguyen",
+      "sfu_email": "dna27",
+      "contribution": {
+        "score": 20,
+        "comment": "Communication was great. He contributed a lot with assigned software and hardware features for the game. He always achieved his tasks on time. High quality work that impressed me. He was a good problem solver for our group."
+      }
+    },
+    {
+      "name": "Savinu Weerabaddana Dissanayake",
+      "sfu_email": "sdw4",
+      "contribution": {
+        "score": 20,
+        "comment": "Communication was great. He participated in all group discussions about progress and updates on the software and hardware parts of the project. Good work quality as expected."
+      }
+    }
+  ],
+  "confidential_comments": ""
+}

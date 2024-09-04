@@ -1,0 +1,37 @@
+{
+  "group": [
+    {
+      "name": "Yashdeep Singh",
+      "sfu_email": "ysa208",
+      "contribution": {
+        "score": 20,
+        "comment": "I believe I contributed equally to the project as I completed all tasks assigned to me and communicated well with the team. In terms of techincal skill, I think my work lived up to expectations placed upon be by my peers.\n\n"
+      }
+    },
+    {
+      "name": "Valentina Solis",
+      "sfu_email": "vsa30",
+      "contribution": {
+        "score": 20,
+        "comment": "Valentina was easy to work with and always cheerful. Always responded to messages with the quality of her working always being above expectations. Valentina was also a great problem solver."
+      }
+    },
+    {
+      "name": "Khai Duy Nguyen",
+      "sfu_email": "dna27",
+      "contribution": {
+        "score": 20,
+        "comment": "Kai was easy to work with. He always got his work done on time with the quality of his work never failing to impress us. Kai always responded to messages on time."
+      }
+    },
+    {
+      "name": "Savinu Weerabaddana Dissanayake",
+      "sfu_email": "sdw4",
+      "contribution": {
+        "score": 20,
+        "comment": "Sav was also easy to work with and always responded to messages. Sav was very creative and always came up with new ideas on how to approch any problems in the code. Sav's work also lived up to expectations."
+      }
+    }
+  ],
+  "confidential_comments": ""
+}

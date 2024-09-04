@@ -1,0 +1,37 @@
+{
+  "group": [
+    {
+      "name": "Khai Duy Nguyen",
+      "sfu_email": "dna27",
+      "contribution": {
+        "score": 20,
+        "comment": "I believe I made meaningful contributions to the team's objectives. I encountered some challenges, but I sought solutions and learned from those experiences. My response time to messages was generally quick, aiding in efficient collaboration."
+      }
+    },
+    {
+      "name": "Yashdeep Singh",
+      "sfu_email": "ysa208",
+      "contribution": {
+        "score": 20,
+        "comment": "Played a vital role in the success of the project. He demonstrated outstanding technical skills and a deep understanding of complex concepts. Yash was an excellent communicator within the team."
+      }
+    },
+    {
+      "name": "Valentina Solis",
+      "sfu_email": "vsa30",
+      "contribution": {
+        "score": 20,
+        "comment": "A key asset to the team, consistently making significant contributions. Her work consistently showcased a high level of skill and expertise. Responses to messages were consistently effective and timely"
+      }
+    },
+    {
+      "name": "Savinu Weerabaddana Dissanayake",
+      "sfu_email": "sdw4",
+      "contribution": {
+        "score": 20,
+        "comment": "He contributed well to the project. His work exceeded my expectations and stood out for its innovation. He always responded promptly to messages"
+      }
+    }
+  ],
+  "confidential_comments": ""
+}
